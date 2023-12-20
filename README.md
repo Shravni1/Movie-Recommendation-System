@@ -7,5 +7,6 @@ This project features a user-friendly web page built using HTML and CSS, allowin
 Live Demo:
 
 
-https://github.com/Shravni1/Movie-Recommendation-System/assets/110089214/4560eebf-199a-43d7-af12-dfa5210b3a2f
+https://github.com/Shravni1/Movie-Recommendation-System/assets/110089214/7fe03d62-3ffa-4626-b3a6-9b0d4669c881
+
 
